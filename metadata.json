@@ -1,0 +1,5 @@
+{
+  "name": "Digital FTE Architect",
+  "description": "A professional dashboard and orchestrator for building Autonomous Personal AI Employees (Digital FTEs). Includes a simulated Obsidian environment, tier tracking, and a Gemini-powered Company Handbook generator.",
+  "requestFramePermissions": []
+}
